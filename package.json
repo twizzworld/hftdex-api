@@ -1,0 +1,15 @@
+{
+  "name": "hftdex-api",
+  "version": "1.0.0",
+  "description": "API to interact with Momentum's HFTDEX",
+  "main": "hftdexAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "twizzwrld",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.9.1",
+    "express": "^4.18.2"
+  }
+}
